@@ -53,7 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </a>
 
   <a href="https://www.linkedin.com/in/ramadhani-massawe-9888b0175/" target="blank">
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="ramadhani-massawe-9888b0175" height="30" width="40" />
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="ramadhani-massawe-9888b0175" height="30" width="40" />
   </a>
 </p>
 
