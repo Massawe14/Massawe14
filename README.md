@@ -97,6 +97,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Massawe14&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
- [](https://github-readme-stats.vercel.app/api?username=Massawe14&count_private=true&show_icons=true&layout=compact&theme=vision-friendly-dark" alt="Massawe github stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Massawe14&count_private=true&show_icons=true&layout=compact&theme=vision-friendly-dark" alt="Massawe github stats" />
 
 ---
