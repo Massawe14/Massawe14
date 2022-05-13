@@ -36,7 +36,30 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://img.shields.io/twitter/follow/massawe_95?logo=twitter&style=for-the-badge" alt="massawe_95" />
   </a> 
 </p>
----
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center" style="background: #fff;">
+  <a href="https://twitter.com/massawe_95" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="massawe_95" height="30" width="40" />
+  </a>
+
+  <a href="https://facebook.com/ramadhan.massawe.3" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ramadhan.massawe.3" height="30" width="40" />
+  </a>
+
+  <a href="https://www.instagram.com/ramadhani_massawe14/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ramadhani_massawe14" height="30" width="40" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/ramadhani-massawe-9888b0175/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ramadhani-massawe-9888b0175" height="30" width="40" />
+  </a>
+
+  <a href="https://zindi.africa/users/massawe" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zindi.svg" alt="massawe" height="30" width="40" />
+  </a>
+</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
