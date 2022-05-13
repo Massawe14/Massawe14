@@ -87,7 +87,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :
+###
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Massawe14" alt="lugodev" /></a>
 </p>
@@ -96,5 +96,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Massawe14&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Massawe14&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mussacharles60&count_private=true&show_icons=true" alt="Mussa's github stats" />
+</p>
 
 ---
