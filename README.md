@@ -41,11 +41,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p align="center" style="background: #fff;">
   <a href="https://twitter.com/massawe_95" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="massawe_95" height="30" width="40" />
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="massawe_95" height="30" width="40" />
   </a>
 
   <a href="https://facebook.com/ramadhan.massawe.3" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ramadhan.massawe.3" height="30" width="40" />
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="ramadhan.massawe.3" height="30" width="40" />
   </a>
 
   <a href="https://www.instagram.com/ramadhani_massawe14/" target="blank">
@@ -53,11 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </a>
 
   <a href="https://www.linkedin.com/in/ramadhani-massawe-9888b0175/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ramadhani-massawe-9888b0175" height="30" width="40" />
-  </a>
-
-  <a href="https://zindi.africa/users/massawe" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zindi.svg" alt="massawe" height="30" width="40" />
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="ramadhani-massawe-9888b0175" height="30" width="40" />
   </a>
 </p>
 
