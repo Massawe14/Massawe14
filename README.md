@@ -31,6 +31,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Massawe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramadhani-massawe-9888b0175/)
 
 ---
+<p align="center"> 
+  <a href="https://mobile.twitter.com/massawe_95" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/massawe_95?logo=twitter&style=for-the-badge" alt="massawe_95" />
+  </a> 
+</p>
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
