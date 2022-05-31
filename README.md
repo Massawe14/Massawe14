@@ -90,9 +90,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p> -->
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Massawe14&theme=dark&background=000000)](https://github.com/Massawe14/)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Massawe14&theme=dark&background=000000)](https://github.com/Massawe14?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Massawe14&layout=compact&theme=vision-friendly-dark)](https://github.com/Massawe14/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Massawe14&layout=compact&theme=vision-friendly-dark)](https://github.com/Massawe14?tab=repositories)
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Massawe14&count_private=true&show_icons=true" alt="Massawe github stats" />
