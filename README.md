@@ -20,7 +20,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tanzania.
 - :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 
@@ -85,14 +85,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ###
-<!-- <p align="center"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Massawe14" alt="lugodev" /></a>
-</p> -->
+</p>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Massawe14&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Massawe14&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Massawe14&layout=compact&theme=vision-friendly-dark)](https://github.com/Massawe14/github-readme-stats)
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Massawe14&count_private=true&show_icons=true" alt="Massawe github stats" />
