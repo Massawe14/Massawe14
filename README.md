@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tanzania.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Tanzania.
 - :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Data science Skills.
