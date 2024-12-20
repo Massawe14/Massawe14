@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Tanzania.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>.
 - :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Data science Skills.
@@ -40,7 +40,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p align="center" style="background: #fff;">
   <a href="https://twitter.com/massawe_95" target="blank">
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="massawe_95" height="30" width="40" />
+    <img align="center" src="[https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg](https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg)" alt="massawe_95" height="30" width="40" />
   </a>
 
   <a href="https://facebook.com/ramadhan.massawe.3" target="blank">
